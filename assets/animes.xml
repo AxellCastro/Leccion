@@ -1,0 +1,26 @@
+<animes>
+    <anime>
+        <titulo>kimetsu no yaiba</titulo>
+        <autor>Koyoharu Gotouge</autor>
+        <precio>35.50</precio>
+        <url>https://demonslayer-hinokami.sega.com/img/purchase/digital-standard-es.jpg</url>
+    </anime>
+    <anime>
+        <titulo>Attack on Titan</titulo>
+        <autor>Hajime Isayama</autor>
+        <precio>40.25</precio>
+        <url>https://es.web.img2.acsta.net/pictures/14/03/25/09/51/067342.jpg</url>
+    </anime>
+    <anime>
+        <titulo>One Piece</titulo>
+        <autor>Eiichiro Oda</autor>
+        <precio>30.75</precio>
+        <url>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxK4b8la0ieAqjdj8OWkaOpl4roxuq-wJm_g&s</url>
+    </anime>
+    <anime>
+        <titulo>My Hero Academia</titulo>
+        <autor>Kohei Horikoshi</autor>
+        <precio>25.99</precio>
+        <url>https://static.wikia.nocookie.net/bokunoheroacademia/images/f/f1/Volumen_1_Panini.png/revision/latest?cb=20181110182259&path-prefix=es</url>
+    </anime>
+</animes>
